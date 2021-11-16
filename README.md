@@ -1,0 +1,1 @@
+Utilizar Microsoft edge ou firefox para rodar a aplicação
